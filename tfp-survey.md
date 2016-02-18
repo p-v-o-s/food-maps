@@ -164,67 +164,66 @@ http://www.hindawi.com/journals/js/2015/195308/
 ### mapping local food systems
 
 - toolkit:
-/mapping_local_food_webs_toolkit.pdf
--- gives examples of categories
--- good for brainstorming **
+[mapping_local_food_webs](./mapping_local_food_webs_toolkit.pdf) [***]
 
 - mapping vermont's local food system:
-http://www.uvm.edu/~susagctr/Documents/SACMappingreduced.pdf
--- good images for brainstorming **
+http://www.uvm.edu/~susagctr/Documents/SACMappingreduced.pdf [***]
 
-online database as an outcome:
-http://www.farmfresh.org/
--- good for brainstorming **
+- online database as an outcome:
+http://www.farmfresh.org/ [***]
 
-food systems diagram:
-http://www.nourishlife.org/teach/food-system-tools/
---- good images for brainstorming **
+- food systems diagram:
+http://www.nourishlife.org/teach/food-system-tools/ [***]
 
 - leopold center: example of local food system outcome
-http://www.leopold.iastate.edu/sites/default/files/pubs-and-papers/2010-02-resource-guide-cultivate-linn-county-local-food-system.pdf
---- some nice graphs for brainstorming **
+http://www.leopold.iastate.edu/sites/default/files/pubs-and-papers/2010-02-resource-guide-cultivate-linn-county-local-food-system.pdf [***]
 
-- D3 viz:
+### D3 viz:
 
-https://github.com/mbostock/d3/wiki/Gallery
--- good for brainstorming ***
+- https://github.com/mbostock/d3/wiki/Gallery [***]
 
-http://bl.ocks.org/mbostock/9885854
+- http://bl.ocks.org/mbostock/9885854
 
-http://www.cloudred.com/labprojects/nyctrees/#about
+- http://www.cloudred.com/labprojects/nyctrees/#about
 
-http://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?abt=0002&abg=0#Georgia
-
-- add for a credit union -- fun animation
-http://visual.ly/make-your-money-matter?view=true
--- good for brainstorming **
-
--- lynn in stamen style
-terrain:
-http://maps.stamen.com/#terrain/15/42.4557/-70.9483
-b&w:
-http://maps.stamen.com/#toner/14/42.4625/-70.9483
-watercolor:
-http://maps.stamen.com/watercolor/#12/42.4668/-70.9495
-
--- good for brainstorming **
-
-- new urban mechanics
-http://newurbanmechanics.org/about/
-http://newurbanmechanics.org/portfolio/
--- good for brainstorming **
+- http://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?abt=0002&abg=0#Georgia
 
 - Obama budget proposal
 http://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html?_r=0
--- good for brainstorming **
 
-civic surveys:
+### Misc viz
+
+- add for a credit union -- fun animation
+http://visual.ly/make-your-money-matter?view=true [***]
+
+### Stamen 
+
+-lynn in stamen style
+- terrain:
+http://maps.stamen.com/#terrain/15/42.4557/-70.9483 [***]
+
+- b&w:
+http://maps.stamen.com/#toner/14/42.4625/-70.9483 [***]
+
+- watercolor:
+http://maps.stamen.com/watercolor/#12/42.4668/-70.9495 [***]
+
+### new urban mechanics
+
+- http://newurbanmechanics.org/about/
+- http://newurbanmechanics.org/portfolio/ [***]
+
+### MIT Civic survey of various technologies
 
 https://docs.google.com/spreadsheets/d/1C4jNIatvbCxBixK3Mo7bE9n4Ux17tEjugd0EoTf-f4I/edit#gid=0
 
 https://docs.google.com/spreadsheets/d/1J_VC2BFFofBQHWBs58MRYH-YHD89iAhdajncogVu_1Y/edit#gid=0
 
 https://docs.google.com/spreadsheets/d/1C4jNIatvbCxBixK3Mo7bE9n4Ux17tEjugd0EoTf-f4I/edit#gid=0
+
+### Mobile data collection
+
+google forms
 
 ushahidi
 
