@@ -4,31 +4,30 @@
 http://www.epicollect.net/instructions/
 -- doesn't work well (yet)
 
-fulcrum 
+- fulcrum 
 http://www.fulcrumapp.com/
 -- not free
 
-https://zapier.com/learn/ultimate-guide-to-forms-and-surveys/best-data-collection-apps/
+- https://zapier.com/learn/ultimate-guide-to-forms-and-surveys/best-data-collection-apps/
 
-formhub 
+- formhub 
 https://formhub.org/
 -- no longer maintained
 
-https://zapier.com/learn/ultimate-guide-to-forms-and-surveys/best-data-collection-apps/#formhub
+- https://zapier.com/learn/ultimate-guide-to-forms-and-surveys/best-data-collection-apps/#formhub
 -- nothing free
 
-list:
+- list:
 http://brunalab.org/apps/
 -- non-customizable app
 
-http://www.geospatialexperts.com/field%20data%20collection%20disaster%20response%20Q&A.php
+- http://www.geospatialexperts.com/field%20data%20collection%20disaster%20response%20Q&A.php
 -- for field biologist
 
 - VERY LARGE listing of resource for analysis of food systems:
 http://guides.library.cornell.edu/c.php?g=31298&p=199466#5792402
 see, especially: "Spatial Analysis & Mapping of Food Systems" section
 -- dig in later
-
 
 http://foodsecurecanada.org/sites/default/files/Mapping_food_matters.pdf
 -- workshop guide, from foodsecurecanada.org
@@ -109,6 +108,14 @@ http://eprints.qut.edu.au/60772/4/60772(item).pdf
 http://msue.anr.msu.edu/news/apps_for_urban_agriculture_and_market_gardens
 -- nothing for mapping in particular
 
+- global rural-ruban mapping project -- grump
+http://sedac.ciesin.columbia.edu/data/collection/grump-v1/citations
+-- not great
+
+- smartphone-based sensors in rural agriculture
+http://www.hindawi.com/journals/js/2015/195308/
+-- not relevant
+
 
 ## reports
 
@@ -143,23 +150,17 @@ http://massgis.maps.arcgis.com/home/webmap/viewer.html?layers=308515018df548878e
 
 ### mapping resources
 
-http://worldmap.harvard.edu/boston/ [***]
+- http://worldmap.harvard.edu/boston/ [***]
 
-http://worldmap.harvard.edu/maps/urbanfarming [***]
+- http://worldmap.harvard.edu/maps/urbanfarming [***]
 
 
-- phil silva's survey tool:
-http://www.thenatureofcities.com/2015/01/14/making-the-measure-a-toolkit-for-tracking-the-outcomes-of-community-gardens-and-urban-farms/
+### phil silva's survey tool:
 
-download: https://farmingconcrete.org/barn/static/resources/DataCollectionToolkit.pdf <-- REVIEW
+- http://www.thenatureofcities.com/2015/01/14/making-the-measure-a-toolkit-for-tracking-the-outcomes-of-community-gardens-and-urban-farms/
 
-- global rural-ruban mapping project -- grump
-http://sedac.ciesin.columbia.edu/data/collection/grump-v1/citations
--- not great
+- https://farmingconcrete.org/barn/static/resources/DataCollectionToolkit.pdf <-- REVIEW
 
-- smartphone-based sensors in rural agriculture
-http://www.hindawi.com/journals/js/2015/195308/
--- not relevant
 
 ### mapping local food systems
 
@@ -198,7 +199,8 @@ http://visual.ly/make-your-money-matter?view=true [***]
 
 ### Stamen 
 
--lynn in stamen style
+Lynn in stamen style ...
+
 - terrain:
 http://maps.stamen.com/#terrain/15/42.4557/-70.9483 [***]
 
