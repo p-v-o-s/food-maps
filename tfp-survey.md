@@ -1,8 +1,6 @@
-survey tools
+## General notes
 
-google forms
-
-epicollect 
+- epicollect 
 http://www.epicollect.net/instructions/
 -- doesn't work well (yet)
 
@@ -28,39 +26,43 @@ http://www.geospatialexperts.com/field%20data%20collection%20disaster%20response
 
 ## reports
 
-exactly on point:
+- nice introduction 
 http://www.psrc.org/assets/9757/REPORT_AssessingUrbanAgriculture_final.pdf?processed=true
--- nice overview, example survey on page 11 **
+[nice overview, example survey on page 11 **]
 
-survey across several cities:
+- survey across several cities:
 http://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-center-for-a-livable-future/_pdf/projects/FPN/Urban_Community_Planning/URBAN_AGRICULTURE_A_SIXTEENCITY_SURVEY_OF_URBAN_AGRICULTURE_PRACTICES_ACROSS_THE_COUNTRY.pdf
 
 - mapping the potential for urban agriculture in worcester:
 https://www.wpi.edu/Pubs/E-project/Available/E-project-042813-132523/unrestricted/IQP_Local_Food_Production_Team.pdf
 -- very nice examples -- great for brainstorming ***
 
-- massgis resources
+### massgis resources
 
--- nice open street map example ***
-http://massgis.maps.arcgis.com/home/webmap/viewer.html?layers=308515018df548878edff25531dab6e1
+- nice open street map example 
+http://massgis.maps.arcgis.com/home/webmap/viewer.html?layers=308515018df548878edff25531dab6e1 [***]
 
-http://maps.massgis.state.ma.us/map_ol/oliver.php
+- mass gis: http://maps.massgis.state.ma.us/map_ol/oliver.php [ good for brainstorming ***]
 
---- good for brainstorming ***
-
-explanation:
-http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/structures.html
+- explanation: http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/structures.html
 
 
-farmOS!
+### farmOS!
+
 https://tfp.farmos.net/farm/areas
-https://tfp.farmos.net/farm
--- good for brainstorming ***
 
-- mapping resources
+https://tfp.farmos.net/farm
+
+[good for brainstorming ***]
+
+### mapping resources
 http://worldmap.harvard.edu/boston/
--- open source mapping software -- good for brainstorming **
+
 http://worldmap.harvard.edu/maps/urbanfarming
+
+-- open source mapping software [ good for brainstorming ***]
+
+
 
 references -- compilation of compilations -- very nice:
 https://afsic.nal.usda.gov/farms-and-community/urban-agriculture
