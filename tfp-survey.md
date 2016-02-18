@@ -24,43 +24,50 @@ http://brunalab.org/apps/
 http://www.geospatialexperts.com/field%20data%20collection%20disaster%20response%20Q&A.php
 -- for field biologist
 
-## reports
-
-- nice introduction 
-http://www.psrc.org/assets/9757/REPORT_AssessingUrbanAgriculture_final.pdf?processed=true
-[nice overview, example survey on page 11 **]
-
-- survey across several cities:
-http://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-center-for-a-livable-future/_pdf/projects/FPN/Urban_Community_Planning/URBAN_AGRICULTURE_A_SIXTEENCITY_SURVEY_OF_URBAN_AGRICULTURE_PRACTICES_ACROSS_THE_COUNTRY.pdf
-
-- mapping the potential for urban agriculture in worcester:
-https://www.wpi.edu/Pubs/E-project/Available/E-project-042813-132523/unrestricted/IQP_Local_Food_Production_Team.pdf
--- very nice examples -- great for brainstorming ***
-
-### massgis resources
-
-- nice open street map example 
-http://massgis.maps.arcgis.com/home/webmap/viewer.html?layers=308515018df548878edff25531dab6e1 [***]
-
-- mass gis: http://maps.massgis.state.ma.us/map_ol/oliver.php [ good for brainstorming ***]
-
-- explanation: http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/structures.html
+- VERY LARGE listing of resource for analysis of food systems:
+http://guides.library.cornell.edu/c.php?g=31298&p=199466#5792402
+see, especially: "Spatial Analysis & Mapping of Food Systems" section
+-- dig in later
 
 
-### farmOS!
+http://foodsecurecanada.org/sites/default/files/Mapping_food_matters.pdf
+-- workshop guide, from foodsecurecanada.org
 
-- https://tfp.farmos.net/farm/areas [***]
+- farm to plate atlas for vermont -- nice web design
+http://www.vtfarmtoplate.com/atlas
 
-- https://tfp.farmos.net/farm [***]
+- local food mapping workshop -- good stuff in here, with links to open source tools
+https://www.geovation.org.uk/wordpress/wp-content/uploads/2011/08/Local-Food-Mapping-workshop-report-20-07-11.pdf
 
+- background reading:
+http://www.mpa.unc.edu/sites/www.mpa.unc.edu/files/SybilTatesCapstone.pdf
 
+- "why local food" 
+http://erb.umich.edu/Research/InstituteReports/14-15/Food-Hub-White-Paper-Final.pdf
 
-### mapping resources
+- food hub - useful software 
+http://food-hub.org/pages/food-tech-landscape#producer-ops
 
-http://worldmap.harvard.edu/boston/ [***]
+- mapping baltimore's food envrironment:
+http://mdfoodsystemmap.org/wp-content/uploads/2015/06/Baltimore-Food-Environment-Report-2015-1.pdf
 
-http://worldmap.harvard.edu/maps/urbanfarming [***]
+- theoretical overview
+http://smallfarms.wsu.edu/wsu-pdfs/wrep0135.pdf
 
+- mapping maryland food system
+http://mdfoodsystemmap.org/wp-content/uploads/2015/06/Baltimore-Food-Environment-Report-2015-1.pdf
+
+- nice mapping outcomes -- greater philadelphia food study
+http://www.dvrpc.org/reports/09066A.pdf
+
+- big picture / philosophy - mapping the minnesota food industry
+http://www.crcworks.org/mnfood.pdf
+
+- philosophy -- arguments for regional food systems
+http://www.choicesmagazine.org/magazine/article.php?article=114
+
+- nice report and statistics
+file:///home/dwblair/Downloads/From_field_to_fork___The_value_of_Englands_local_food_webs_interactive.pdf
 
 references -- compilation of compilations -- very nice:
 https://afsic.nal.usda.gov/farms-and-community/urban-agriculture
@@ -101,6 +108,45 @@ http://eprints.qut.edu.au/60772/4/60772(item).pdf
 - apps for urban ag:
 http://msue.anr.msu.edu/news/apps_for_urban_agriculture_and_market_gardens
 -- nothing for mapping in particular
+
+
+## reports
+
+- nice introduction 
+http://www.psrc.org/assets/9757/REPORT_AssessingUrbanAgriculture_final.pdf?processed=true
+[nice overview, example survey on page 11 **]
+
+- survey across several cities:
+http://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-center-for-a-livable-future/_pdf/projects/FPN/Urban_Community_Planning/URBAN_AGRICULTURE_A_SIXTEENCITY_SURVEY_OF_URBAN_AGRICULTURE_PRACTICES_ACROSS_THE_COUNTRY.pdf
+
+- mapping the potential for urban agriculture in worcester:
+https://www.wpi.edu/Pubs/E-project/Available/E-project-042813-132523/unrestricted/IQP_Local_Food_Production_Team.pdf
+-- very nice examples [***]
+
+### massgis resources
+
+- nice open street map example 
+http://massgis.maps.arcgis.com/home/webmap/viewer.html?layers=308515018df548878edff25531dab6e1 [***]
+
+- mass gis: http://maps.massgis.state.ma.us/map_ol/oliver.php [***]
+
+- explanation: http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/structures.html [***]
+
+
+### farmOS!
+
+- https://tfp.farmos.net/farm/areas [***]
+
+- https://tfp.farmos.net/farm [***]
+
+
+
+### mapping resources
+
+http://worldmap.harvard.edu/boston/ [***]
+
+http://worldmap.harvard.edu/maps/urbanfarming [***]
+
 
 - phil silva's survey tool:
 http://www.thenatureofcities.com/2015/01/14/making-the-measure-a-toolkit-for-tracking-the-outcomes-of-community-gardens-and-urban-farms/
@@ -180,53 +226,11 @@ https://docs.google.com/spreadsheets/d/1J_VC2BFFofBQHWBs58MRYH-YHD89iAhdajncogVu
 
 https://docs.google.com/spreadsheets/d/1C4jNIatvbCxBixK3Mo7bE9n4Ux17tEjugd0EoTf-f4I/edit#gid=0
 
+ushahidi
 
-ushahidi!!!
-
-- VERY LARGE listing of resource for analysis of food systems:
-http://guides.library.cornell.edu/c.php?g=31298&p=199466#5792402
-see, especially: "Spatial Analysis & Mapping of Food Systems" section
--- dig in later
+promisetracker
 
 
-http://foodsecurecanada.org/sites/default/files/Mapping_food_matters.pdf
--- workshop guide, from foodsecurecanada.org
-
-- farm to plate atlas for vermont -- nice web design
-http://www.vtfarmtoplate.com/atlas
-
-- local food mapping workshop -- good stuff in here, with links to open source tools
-https://www.geovation.org.uk/wordpress/wp-content/uploads/2011/08/Local-Food-Mapping-workshop-report-20-07-11.pdf
-
-- background reading:
-http://www.mpa.unc.edu/sites/www.mpa.unc.edu/files/SybilTatesCapstone.pdf
-
-- "why local food" 
-http://erb.umich.edu/Research/InstituteReports/14-15/Food-Hub-White-Paper-Final.pdf
-
-- food hub - useful software 
-http://food-hub.org/pages/food-tech-landscape#producer-ops
-
-- mapping baltimore's food envrironment:
-http://mdfoodsystemmap.org/wp-content/uploads/2015/06/Baltimore-Food-Environment-Report-2015-1.pdf
-
-- theoretical overview
-http://smallfarms.wsu.edu/wsu-pdfs/wrep0135.pdf
-
-- mapping maryland food system
-http://mdfoodsystemmap.org/wp-content/uploads/2015/06/Baltimore-Food-Environment-Report-2015-1.pdf
-
-- nice mapping outcomes -- greater philadelphia food study
-http://www.dvrpc.org/reports/09066A.pdf
-
-- big picture / philosophy - mapping the minnesota food industry
-http://www.crcworks.org/mnfood.pdf
-
-- philosophy -- arguments for regional food systems
-http://www.choicesmagazine.org/magazine/article.php?article=114
-
-- nice report and statistics
-file:///home/dwblair/Downloads/From_field_to_fork___The_value_of_Englands_local_food_webs_interactive.pdf
 
 
 
