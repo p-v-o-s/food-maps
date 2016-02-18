@@ -49,19 +49,17 @@ http://massgis.maps.arcgis.com/home/webmap/viewer.html?layers=308515018df548878e
 
 ### farmOS!
 
-https://tfp.farmos.net/farm/areas
+- https://tfp.farmos.net/farm/areas [***]
 
-https://tfp.farmos.net/farm
+- https://tfp.farmos.net/farm [***]
 
-[good for brainstorming ***]
+
 
 ### mapping resources
-http://worldmap.harvard.edu/boston/
 
-http://worldmap.harvard.edu/maps/urbanfarming
+http://worldmap.harvard.edu/boston/ [***]
 
--- open source mapping software [ good for brainstorming ***]
-
+http://worldmap.harvard.edu/maps/urbanfarming [***]
 
 
 references -- compilation of compilations -- very nice:
@@ -136,13 +134,6 @@ food systems diagram:
 http://www.nourishlife.org/teach/food-system-tools/
 --- good images for brainstorming **
 
-ushahidi!!!
-
-- VERY LARGE listing of resource for analysis of food systems:
-http://guides.library.cornell.edu/c.php?g=31298&p=199466#5792402
-see, especially: "Spatial Analysis & Mapping of Food Systems" section
--- dig in later
-
 - leopold center: example of local food system outcome
 http://www.leopold.iastate.edu/sites/default/files/pubs-and-papers/2010-02-resource-guide-cultivate-linn-county-local-food-system.pdf
 --- some nice graphs for brainstorming **
@@ -188,6 +179,14 @@ https://docs.google.com/spreadsheets/d/1C4jNIatvbCxBixK3Mo7bE9n4Ux17tEjugd0EoTf-
 https://docs.google.com/spreadsheets/d/1J_VC2BFFofBQHWBs58MRYH-YHD89iAhdajncogVu_1Y/edit#gid=0
 
 https://docs.google.com/spreadsheets/d/1C4jNIatvbCxBixK3Mo7bE9n4Ux17tEjugd0EoTf-f4I/edit#gid=0
+
+
+ushahidi!!!
+
+- VERY LARGE listing of resource for analysis of food systems:
+http://guides.library.cornell.edu/c.php?g=31298&p=199466#5792402
+see, especially: "Spatial Analysis & Mapping of Food Systems" section
+-- dig in later
 
 
 http://foodsecurecanada.org/sites/default/files/Mapping_food_matters.pdf
