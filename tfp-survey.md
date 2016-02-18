@@ -24,13 +24,13 @@ http://brunalab.org/apps/
 - http://www.geospatialexperts.com/field%20data%20collection%20disaster%20response%20Q&A.php
 -- for field biologist
 
-- VERY LARGE listing of resource for analysis of food systems:
+- Very large listing of resource for analysis of food systems:
 http://guides.library.cornell.edu/c.php?g=31298&p=199466#5792402
 see, especially: "Spatial Analysis & Mapping of Food Systems" section
 -- dig in later
 
+- workshop guide, from foodsecurecanada.org: 
 http://foodsecurecanada.org/sites/default/files/Mapping_food_matters.pdf
--- workshop guide, from foodsecurecanada.org
 
 - farm to plate atlas for vermont -- nice web design
 http://www.vtfarmtoplate.com/atlas
@@ -68,11 +68,11 @@ http://www.choicesmagazine.org/magazine/article.php?article=114
 - nice report and statistics
 file:///home/dwblair/Downloads/From_field_to_fork___The_value_of_Englands_local_food_webs_interactive.pdf
 
-references -- compilation of compilations -- very nice:
+- references -- compilation of compilations -- very nice:
 https://afsic.nal.usda.gov/farms-and-community/urban-agriculture
 -- nothing related to mapping, per se
 
-urban ag / vacant land review
+- urban ag / vacant land review
 http://ase.tufts.edu/uep/degrees/field_project_reports/2013/Team_8_Final_Report_2013.pdf
 -- good background info
 
@@ -217,11 +217,11 @@ http://maps.stamen.com/watercolor/#12/42.4668/-70.9495 [***]
 
 ### MIT Civic survey of various technologies
 
-https://docs.google.com/spreadsheets/d/1C4jNIatvbCxBixK3Mo7bE9n4Ux17tEjugd0EoTf-f4I/edit#gid=0
+- https://docs.google.com/spreadsheets/d/1C4jNIatvbCxBixK3Mo7bE9n4Ux17tEjugd0EoTf-f4I/edit#gid=0
 
-https://docs.google.com/spreadsheets/d/1J_VC2BFFofBQHWBs58MRYH-YHD89iAhdajncogVu_1Y/edit#gid=0
+- https://docs.google.com/spreadsheets/d/1J_VC2BFFofBQHWBs58MRYH-YHD89iAhdajncogVu_1Y/edit#gid=0
 
-https://docs.google.com/spreadsheets/d/1C4jNIatvbCxBixK3Mo7bE9n4Ux17tEjugd0EoTf-f4I/edit#gid=0
+- https://docs.google.com/spreadsheets/d/1C4jNIatvbCxBixK3Mo7bE9n4Ux17tEjugd0EoTf-f4I/edit#gid=0
 
 ### Mobile data collection
 
