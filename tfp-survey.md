@@ -67,9 +67,11 @@ https://www.fas.org/sgp/crs/misc/R42155.pdf
 
 - legal tools for urban agriculture in baltimore:
 http://communitylaw.org/urbanagriculturelawproject/
+-- legal focus
 
-- FOSS for agriculture in tanzania!!! 
+- FOSS for agriculture in tanzania
 http://eprints.qut.edu.au/60772/4/60772(item).pdf
+-- not particularly relevant
 
 - apps for urban ag:
 http://msue.anr.msu.edu/news/apps_for_urban_agriculture_and_market_gardens
@@ -82,39 +84,44 @@ download: https://farmingconcrete.org/barn/static/resources/DataCollectionToolki
 
 - global rural-ruban mapping project -- grump
 http://sedac.ciesin.columbia.edu/data/collection/grump-v1/citations
+-- not great
 
 - smartphone-based sensors in rural agriculture
 http://www.hindawi.com/journals/js/2015/195308/
+-- not relevant
 
 ### mapping local food systems
 
 - toolkit:
-file:///home/dwblair/Downloads/mapping_local_food_webs_toolkit.pdf
-
-good examples of options
+/mapping_local_food_webs_toolkit.pdf
+-- at least gives examples of categories
 
 - mapping vermont's local food system:
 http://www.uvm.edu/~susagctr/Documents/SACMappingreduced.pdf
-good examples of options
+-- good images for brainstorming **
 
 online database as an outcome:
 http://www.farmfresh.org/
+-- good for brainstorming **
 
 food systems diagram:
 http://www.nourishlife.org/teach/food-system-tools/
+--- good images for brainstorming **
 
 ushahidi!!!
 
 - VERY LARGE listing of resource for analysis of food systems:
 http://guides.library.cornell.edu/c.php?g=31298&p=199466#5792402
-
 see, especially: "Spatial Analysis & Mapping of Food Systems" section
+-- dig in later
 
 - leopold center: example of local food system outcome
 http://www.leopold.iastate.edu/sites/default/files/pubs-and-papers/2010-02-resource-guide-cultivate-linn-county-local-food-system.pdf
+--- some nice graphs for brainstorming **
 
-- very nice theoretical guide to mapping food system -- from foodsecurecanada.org
+
 http://foodsecurecanada.org/sites/default/files/Mapping_food_matters.pdf
+-- workshop guide, from foodsecurecanada.org
 
 - farm to plate atlas for vermont -- nice web design
 http://www.vtfarmtoplate.com/atlas
