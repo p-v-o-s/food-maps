@@ -160,6 +160,20 @@ http://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-
 http://visual.ly/make-your-money-matter?view=true
 -- good for brainstorming **
 
+-- lynn in stamen style
+terrain:
+http://maps.stamen.com/#terrain/15/42.4557/-70.9483
+b&w:
+http://maps.stamen.com/#toner/14/42.4625/-70.9483
+watercolor:
+http://maps.stamen.com/watercolor/#12/42.4668/-70.9495
+
+-- good for brainstorming **
+
+- new urban mechanics
+http://newurbanmechanics.org/about/
+http://newurbanmechanics.org/portfolio/
+-- good for brainstorming **
 
 - Obama budget proposal
 http://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html?_r=0
