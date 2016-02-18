@@ -2,24 +2,31 @@ survey tools
 
 google forms
 
-epicollect
+epicollect 
 http://www.epicollect.net/instructions/
+-- doesn't work well (yet)
 
-fulcrum
+fulcrum 
 http://www.fulcrumapp.com/
+-- not free
 
 https://zapier.com/learn/ultimate-guide-to-forms-and-surveys/best-data-collection-apps/
 
-formhub
-https://zapier.com/learn/ultimate-guide-to-forms-and-surveys/best-data-collection-apps/#formhub
+formhub 
 https://formhub.org/
+-- no longer maintained
+
+https://zapier.com/learn/ultimate-guide-to-forms-and-surveys/best-data-collection-apps/#formhub
+-- nothing free
 
 list:
 http://brunalab.org/apps/
+-- non-customizable app
 
 http://www.geospatialexperts.com/field%20data%20collection%20disaster%20response%20Q&A.php
+-- for field biologist
 
-nice reports!
+## reports
 
 exactly on point:
 http://www.psrc.org/assets/9757/REPORT_AssessingUrbanAgriculture_final.pdf?processed=true
@@ -32,25 +39,31 @@ https://www.wpi.edu/Pubs/E-project/Available/E-project-042813-132523/unrestricte
 
 references -- compilation of compilations -- very nice:
 https://afsic.nal.usda.gov/farms-and-community/urban-agriculture
+-- nothing related to mapping, per se
 
-vacant land review
+urban ag / vacant land review
 http://ase.tufts.edu/uep/degrees/field_project_reports/2013/Team_8_Final_Report_2013.pdf
+-- nice general report 
 
-** methods for monitoring urban agriculture **
+- methods for monitoring urban agriculture
 http://www.ruaf.org/sites/default/files/Discussionpaper%205%20methods%20for%20M%25E%20of%20UPA_1.pdf
-
+- more on technical side, high-level
 
 - design process for an urban agriculture app
 http://carlosmarin.net/WordDocs/SeaPatchFinalReport.pdf
+-- networking app, like foursquare
 
 - challenges for mobile phone surveys
 http://www.cgdev.org/blog/do-mobile-phone-surveys-work-poor-countries
+-- not relevant
 
 - using maps for urban agriculture
 http://geospatialworld.net/Paper/Application/ArticleView.aspx?aid=89
+- GIS focused
 
 - the role of local food systems in us farm policy
 https://www.fas.org/sgp/crs/misc/R42155.pdf
+-- legal focus
 
 - legal tools for urban agriculture in baltimore:
 http://communitylaw.org/urbanagriculturelawproject/
@@ -60,9 +73,12 @@ http://eprints.qut.edu.au/60772/4/60772(item).pdf
 
 - apps for urban ag:
 http://msue.anr.msu.edu/news/apps_for_urban_agriculture_and_market_gardens
+-- nothing for mapping in particular
 
 - phil silva's survey tool:
 http://www.thenatureofcities.com/2015/01/14/making-the-measure-a-toolkit-for-tracking-the-outcomes-of-community-gardens-and-urban-farms/
+
+download: https://farmingconcrete.org/barn/static/resources/DataCollectionToolkit.pdf <-- REVIEW
 
 - global rural-ruban mapping project -- grump
 http://sedac.ciesin.columbia.edu/data/collection/grump-v1/citations
@@ -133,7 +149,7 @@ http://www.crcworks.org/mnfood.pdf
 - philosophy -- arguments for regional food systems
 http://www.choicesmagazine.org/magazine/article.php?article=114
 
-- nice report and stistics
+- nice report and statistics
 file:///home/dwblair/Downloads/From_field_to_fork___The_value_of_Englands_local_food_webs_interactive.pdf
 
 
